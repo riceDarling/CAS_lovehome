@@ -1,0 +1,56 @@
+{
+	"index.html": {
+		"resources": [
+			"js/vue.js",
+			"js/vue-mui.js",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"html/home.html"
+		],
+		"refer": [
+			"html/news.html",
+			"html/user.html",
+			"html/home.html",
+			"html/shop.html",
+			"html/news2.html",
+			"html/user2.html"
+		]
+	},
+	"html/home.html": {
+		"resources": [
+			"img/2.jpg",
+			"img/1.jpg",
+			"img/4.jpg",
+			"img/3.jpg",
+			"js/vue.js",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"img/news3.png",
+			"img/work2.png",
+			"img/zhishi2.png",
+			"img/laoshi2.png",
+			"img/yisheng2.png",
+			"img/experience2.png",
+			"css/style.css",
+			"img/lazyload.gif"
+		]
+	},
+	"html/user2.html": {
+		"resources": [
+			"css/feedback.css",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"js/feedback.js",
+			"js/mui.view.js"
+		]
+	},
+	"html/news2.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css"
+		]
+	}
+}
